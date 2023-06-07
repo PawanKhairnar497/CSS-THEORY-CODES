@@ -6,6 +6,8 @@
    
 # STARTING WITH CSS
 
-### INLINE CSS: Inline css takes precedance over all other styles, and styles defined in the internal & external css are overridden by the inline css. There is no need to create an additional file. Pseudo-codes & pseudo-classes cannot be styled with inline css. 🦖Inline CSS in not for BIG PROJECTS. 
+### INLINE CSS: Inline css takes precedance over all other styles, and styles defined in the internal & external css are overridden by the inline css. There is no need to create an additional file, Because It Is defined in body section of HTML page. Pseudo-codes & pseudo-classes cannot be styled with inline css. 🦖Inline CSS in not for BIG PROJECTS. 
+### INTERNAL CSS: The Internal CSS is used to add a unique sytle for a single document.It is defined in head section of HTML page inside the style tag. ID's & classes can be used in internal CSS you do not need to numerous file.The might take precedance over EXTERNAL CSS. Internal CSS increases page load times.They are useful for only the page they are specified on.
+### EXTERNAL CSS: 
    
    
