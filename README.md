@@ -12,5 +12,6 @@
 ### PRIORITY IN CSS:The Priority of CSS rule is important because it determines which styles are applied to an element when these are conflicting rules or multiple CSS applied to a single element .CSS order of priority 1)Inline css , 2)Internal css , 3)External css. Inline css has a higher priority than the internal css .Internal css has a higher priority than the External CSS.
 ### SELECTORS IN CSS: CSS selectors are used for selecting the HTML elements that you want to style & they are a fundamental part of working with CSS.In theory,Selectors are patterns used to select the elements to which a set of styles will be applied.CSS selectors can be used to select elements based on their type,class,ID,attributes or dynamic state or position.
 ### TYPES OF CLASS SELECTORS: 1)Simple Selectors , 2)Combinators , 3)Attribute Selectors , 4)Pseudo-class selectors , 5)Pseudo-element selectors .
+### 1)SIMPLE SELECTOR: A simple selector is either a type selector or a universal selector. Simple selector are pretty straight forward & used most of the time in developement. i)Universal Selector * , ii)Element Selector , iii)Class Selector , iv)ID Selector , v)Selector list . 
    
    
