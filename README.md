@@ -15,5 +15,7 @@
 ### 1)SIMPLE SELECTOR: A simple selector is either a type selector or a universal selector. Simple selector are pretty straight forward & used most of the time in developement. i)Universal Selector * , ii)Element Selector , iii)Class Selector , iv)ID Selector , v)Selector list . 
 ### 2)COMBINATORS:  i)Descendent selector , ii)Child selector , iii)Adjacent sibling selector , iv)General sibling selector .
 ### 3)ATTRIBUTE SELECTOR: The [attribute="value"] selector is used to select elements with a specified attribute & value. i) [ attribute ~ ="value" ] selector, iii) [ attribute | = "value"] selector , iii) [ attribute ^ = "value"] selector , iv) [ attribute $ = "value" ] selector .
+### 4)PSEUDO-CLASS SELECTOR: Pseudo-class are used to select elements based on their state, such as when the element is hovered over, when it has focus, or when it is the first  or last child of its parent element. i):hover , ii):focus , iii):link , iv):visited , v):active , vi):first-child , vii):lang , viii):nth-child().
+### 5)PSEUDO-ELEMENT SELECTOR: CSS allows developers to create special types of selecotrs called pseudo-elements,which can be used to style specific parts of an HTML element . i)::first-line , ii)::first-letter , iii)::after , iv)::before , v)::marker , vi)selection .
    
    
