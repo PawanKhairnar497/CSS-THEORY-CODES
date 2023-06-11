@@ -13,5 +13,7 @@
 ### SELECTORS IN CSS: CSS selectors are used for selecting the HTML elements that you want to style & they are a fundamental part of working with CSS.In theory,Selectors are patterns used to select the elements to which a set of styles will be applied.CSS selectors can be used to select elements based on their type,class,ID,attributes or dynamic state or position.
 ### TYPES OF CLASS SELECTORS: 1)Simple Selectors , 2)Combinators , 3)Attribute Selectors , 4)Pseudo-class selectors , 5)Pseudo-element selectors .
 ### 1)SIMPLE SELECTOR: A simple selector is either a type selector or a universal selector. Simple selector are pretty straight forward & used most of the time in developement. i)Universal Selector * , ii)Element Selector , iii)Class Selector , iv)ID Selector , v)Selector list . 
+### 2)COMBINATORS:  i)Descendent selector , ii)Child selector , iii)Adjacent sibling selector , iv)General sibling selector .
+### 3)ATTRIBUTE SELECTOR: The [attribute="value"] selector is used to select elements with a specified attribute & value. i) [ attribute ~ ="value" ] selector, iii) [ attribute | = "value"] selector , iii) [ attribute ^ = "value"] selector , iv) [ attribute $ = "value" ] selector .
    
    
