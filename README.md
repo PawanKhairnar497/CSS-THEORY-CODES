@@ -18,5 +18,6 @@
 ### 4)PSEUDO-CLASS SELECTOR: Pseudo-class are used to select elements based on their state, such as when the element is hovered over, when it has focus, or when it is the first  or last child of its parent element. i):hover , ii):focus , iii):link , iv):visited , v):active , vi):first-child , vii):lang , viii):nth-child().
 ### 5)PSEUDO-ELEMENT SELECTOR: CSS allows developers to create special types of selecotrs called pseudo-elements,which can be used to style specific parts of an HTML element . i)::first-line , ii)::first-letter , iii)::after , iv)::before , v)::marker , vi)selection .
 ### 🦖DIFFERENCE BETWEEN PSEUDO-CLASS & PSEUDO-ELEMENTS: Pseudo-classes select elements based on their state or characterstics, while Pseudo-elements select specific parts of an element. Pseuso-classes are defined by adding a colon (:) & Pseudo-elements are defined by adding two colon (::) .
+### CSS SPECIFICITY: CSS specificity is a fundamental concepts in css that determines which css styles will be applied to an HTML element. Understanding how specificity works is crucial for creating well-structured & maintainable css code.
    
    
