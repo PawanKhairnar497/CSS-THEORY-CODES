@@ -1,0 +1,13 @@
+/*body{
+    background-color: black; color: aqua;
+}*/
+
+
+.heading {
+    color: blueviolet;
+     font-size: 45px;
+     text-align:center;
+     text-decoration:underline;
+     /* dotted & solid is the types of border */
+     border: 5px  dotted purple;
+}
