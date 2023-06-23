@@ -21,5 +21,5 @@
 ### CSS SPECIFICITY: CSS specificity is a fundamental concepts in css that determines which css styles will be applied to an HTML element. Understanding how specificity works is crucial for creating well-structured & maintainable css code.
 ### FONTS: fonts are an essential aspect of design & can greatly affect the look & feel of a website or document. They can also play a role in how easily the content is understood & absorbed by the reader.Consistent font throughout a project help to create a cohensive & professional look . GOOGLE FONTS:- google fonts is a library of free, open-source fonts that you can use on your web projects.It was launched in 2010 & has since become one of the most popular sources for web fonts, with over 800 fonts available.The font are free to use & can be easily customized. 
 ### BOX-MODEL: the term "box-model" is used when discussing a web application's design & layout. It is box that wraps around every HTML element. It consists : margins , borders , padding & the actual content . 
-   
+### COLORS: colors play a significant role in the design of a website & can greatly affect the user experience. Colors can be used to create visuals,draw attention to important elements & establish a mood or tone. They can also be used to convey brand identity & personality .
    
