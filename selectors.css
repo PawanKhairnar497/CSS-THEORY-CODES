@@ -1,0 +1,72 @@
+/* UNIVERSAL SELECTOR 
+{
+   margin: 0;
+   padding: 0;
+} */
+ 
+
+ /*ELEMENT SELECTOR  
+h1 {
+     color:red ;
+} */
+
+
+/* CLASS SELETORS 
+.pra{
+    color:yellow;
+}
+.hi{
+    background-color: rgb(14, 12, 12);
+} */
+
+
+/* ID selectors 
+#id1{
+    font-style: italic;
+    font-size: 55px;
+} */
+
+
+/* SELECTOR LIST 
+.class1 , .class7 , .class10*/
+
+
+
+/* DESCENDENT SELECTOR (parent-child)
+main p{
+    color: aqua;
+}  */
+
+/* CHILD SELECTOR 
+main > p {
+    color: blueviolet;
+}  */
+
+
+ /* ADJACENT SIBLING SELECTOR 
+section + p {
+    color: blue;
+ }   */
+
+
+/* GENERAL SIBLING SELECTOR 
+section ~ p {
+    color: aqua;
+}*/
+
+
+/* ATTRIBUTE SELECTORS 
+[target="_blank"]  {
+    color: aquamarine;
+    text-decoration: underline;
+} */
+
+
+/* [ATTRIBUTE~= VALUE] SELECTOR */
+[alt~="PW"] {
+    color: chartreuse;
+    background-color: black;
+    text-decoration: wavy;
+}
+
+
